@@ -15,3 +15,9 @@ Discover structuraView, your go-to platform for visualizing data structures and 
 
 ![Screenshot 2024-10-28 204555](https://github.com/user-attachments/assets/a0bdccb1-7fa9-48cb-9ba9-7da8cb364be3)
 ![Screenshot 2024-10-28 204610](https://github.com/user-attachments/assets/4c75ca36-d23f-4d72-92de-cdc5888aec48)
+
+![Screenshot 2024-10-28 214619](https://github.com/user-attachments/assets/987e4d44-b38e-484f-9f9c-bd6d9d35753e)
+
+![demo](https://github.com/user-attachments/assets/4b822bf9-9751-451d-84c5-68828df9bd63)
+
+
