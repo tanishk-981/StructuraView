@@ -3,7 +3,7 @@ A Visualizing Platform that Visualize Data Structures &amp; Algorithms in Struct
 
 Discover structuraView, your go-to platform for visualizing data structures and algorithms. Elevate your learning experience with intuitive and interactive visuals. a premier platform for visualizing data structures and algorithms. Enhance your understanding through interactive and engaging visual tools. structuraView also contains object oriented programming section , complexity chart section and code section for comprehension learning
 
-### 🔗Demo : https://lnkd.in/g_a8JsQX
+### 🔗Demo : https://structuraview.netlify.app/
 
 ### 🌟Features : 
 ###### Customizable input <br> Real-time visualization <br> Complexity demonstration <br> Multiple Operations <br> Friendly interface <br> Theory + Visualability
